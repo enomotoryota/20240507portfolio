@@ -2,7 +2,7 @@ import Profile from "./components/Profile/Profile";
 import Work from "./components/Work/Work";
 import Disc from "./components/Disc/Disc.tsx";
 import Activity from "./components/Activity/Activity";
-import Issue from "./components/Issue/Issue";
+// import Issue from "./components/Issue/Issue";
 import Videowork from "./components/Videowork/Videowork";
 // import Graph from "./components/Graph/Graph";
 // import Goodbye from "./components/Goodbye/Goodbye";
