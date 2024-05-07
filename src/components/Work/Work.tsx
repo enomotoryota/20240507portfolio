@@ -1,6 +1,6 @@
 import "./Work.css";
 import IMG22 from "../img/22.png";
-// import IMG1 from "../img/ポートフォリオ.png";
+import IMG1 from "../img/ポートフォリオ.png";
 import IMG2 from "../img/ポートフォリオ2.png";
 
 function Work() {
@@ -9,7 +9,7 @@ function Work() {
       <section className="WorkSection">
         <h1 className="WorkSection-title">Work</h1>
         <div className="WorkSectionContents">
-          {/* <img className="workImg" id="image1" src={IMG1} alt="Image 1"></img> */}
+          <img className="workImg" id="image1" src={IMG1} alt="Image 1"></img>
           <p className="WorkSectionContents-text">
             存在しないアルバムの曲紹介ページ
             <br />
